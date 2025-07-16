@@ -1,2 +1,2 @@
 # learning-git
-author -  swati
+author -  swati(learning git and github)
